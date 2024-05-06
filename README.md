@@ -6,7 +6,7 @@
 </div>
 <br><br>
 <h2>About me</h2>
-<div class="about-me"> ✨ I'm a starter Angular Developer ✨ , in love with languages with components. I'm from Málaga - Andalucía - Spain and I'm 33 years old 😄.<br>I'm looking for a new job as an Angular developer but I don't close any doors to learning other frameworks or languages ❤. I am a decisive, creative and independent person 😁.  If you want to know more about me, contact me 🤗. </div>
+<div class="about-me"> ✨ I'm a starter Angular Developer ✨ , in love with languages with components. <br>I'm from Málaga - Andalucía - Spain and I'm 33 years old 😄.<br>I'm looking for a new job as an Angular developer but I don't close any doors to learning other frameworks or languages ❤.<br> I am a decisive, creative and independent person 😁.  <br>If you want to know more about me, contact me 🤗. </div>
 <h2>My projects</h2>
 Look my projects and askme if you need more info! Please visit my portfolio for extra information 💁‍♀️ <a href="wwww.dev-vanessa-rubio.com">wwww.dev-vanessa-rubio.com </a><br><br>
 <div align="center">👇👇👇👇👇👇</div>
