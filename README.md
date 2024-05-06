@@ -1,4 +1,12 @@
-### Hi there 👋
+<img src="my-banner.png">
+<div align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/build-%20-brightgreen?style=plastic&logo=Gmail&logoColor=red&logoSize=auto&label=dev-vanessa-rubio&labelColor=white&color=red&cacheSeconds=3600&link=dev-vanessa- rubio%40gmail.com">
+<img alt="Static Badge" src="https://img.shields.io/badge/build-%20-brightgreen?style=plastic&logo=Linkedin&logoColor=blue&logoSize=auto&label=vanessa-rubio-sanchez&labelColor=white&color=blue&cacheSeconds=3600&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvanessa-rubio-sanchez-285534181%2F">
+<img alt="Static Badge" src="https://img.shields.io/badge/build-%20-brightgreen?style=plastic&logo=Angular&logoColor=red&logoSize=auto&label=dev-vanessa-rubio&labelColor=white&color=red&cacheSeconds=3600&link=www.dev-vanessa-rubio.com">
+</div>
+<br><br>
+<h2>About me</h2>
+<div class="about-me"> ✨ I'm a starter Angular Developer ✨ , in love with languages with components. I'm from Málaga - Andalucía - Spain and I'm 33 years old 😄.<br>I'm looking for a new job as an Angular developer but I don't close any doors to learning other frameworks or languages ❤. I am a decisive, creative and independent person 😁.  If you want to know more about me, contact me 🤗. </div>
 
 <!--
 **vanemp21/vanemp21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
