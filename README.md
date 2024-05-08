@@ -1,6 +1,7 @@
 <img src="my-banner.png">
 <div align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/build-%20-brightgreen?style=plastic&logo=Gmail&logoColor=red&logoSize=auto&label=dev-vanessa-rubio&labelColor=white&color=red&cacheSeconds=3600&link=dev-vanessa- rubio%40gmail.com">
+  <a href="mailto:dev.vanessa.rubio@gmail.com">
+  <img alt="Static Badge" src="https://img.shields.io/badge/build-%20-brightgreen?style=plastic&logo=Gmail&logoColor=red&logoSize=auto&label=dev-vanessa-rubio&labelColor=white&color=red&cacheSeconds=3600&link=dev-vanessa- rubio%40gmail.com"></a>
 <a href="https://www.linkedin.com/in/vanessa-rubio-sanchez-285534181/"><img alt="Static Badge" src="https://img.shields.io/badge/build-%20-brightgreen?style=plastic&logo=Linkedin&logoColor=blue&logoSize=auto&label=vanessa-rubio-sanchez&labelColor=white&color=blue&cacheSeconds=3600&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvanessa-rubio-sanchez-285534181%2F"></a>
   <a href="https://www.dev-vanessa-rubio.com">
 <img alt="Static Badge" src="https://img.shields.io/badge/build-%20-brightgreen?style=plastic&logo=Angular&logoColor=red&logoSize=auto&label=dev-vanessa-rubio&labelColor=white&color=red&cacheSeconds=3600&link=www.dev-vanessa-rubio.com"></a>
