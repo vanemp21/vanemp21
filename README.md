@@ -8,7 +8,7 @@
 </div>
 <br><br>
 <h2>About me</h2>
-<div class="about-me"> ✨ I'm a starter Angular/React Developer and a Mid experienced with Drupal✨ , in love with languages with components and CMS. <br>I'm from Málaga - Andalucía - Spain and I'm 35 years old 😄. ❤.<br> I am a decisive, creative and independent person 😁.  <br>If you want to know more about me, contact me 🤗. </div>
+<div class="about-me"> ✨ I'm a Mid experienced with Drupal and starter Angular/React Developer✨ , in love with languages with components and CMS. <br>I'm from Málaga - Andalucía - Spain and I'm 35 years old 😄. ❤.<br> I am a decisive, creative and independent person 😁.  <br>If you want to know more about me, contact me 🤗. </div>
 <h2>My projects</h2>
 Look my projects and askme if you need more info! </a><br><br>
 <div align="center">👇👇👇👇👇👇</div>
