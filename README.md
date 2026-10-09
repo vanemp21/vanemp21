@@ -7,10 +7,24 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/build-%20-brightgreen?style=plastic&logo=Angular&logoColor=red&logoSize=auto&label=dev-vanessa-rubio&labelColor=white&color=red&cacheSeconds=3600&link=www.dev-vanessa-rubio.com"></a>
 </div>
 <br><br>
-<h2>About me</h2>
-<div class="about-me"> ✨ I'm a Mid experienced with Drupal and starter Angular/React Developer✨ , in love with languages with components and CMS. <br>I'm from Málaga - Andalucía - Spain and I'm 35 years old 😄. ❤.<br> I am a decisive, creative and independent person 😁.  <br>If you want to know more about me, contact me 🤗. </div>
-<h2>My projects</h2>
-Look my projects and askme if you need more info! </a><br><br>
+<h2>Sobre mi</h2>
+<div class="about-me">👋 ¡Hola! Soy Vanessa
+
+💻 Soy **Desarrolladora Web Full Stack**, con experiencia en **Drupal y Angular**.
+
+🚀 Me apasiona crear aplicaciones web modernas, escalables e intuitivas, trabajando con **frameworks basados en componentes, gestores de contenido (CMS) y soluciones personalizadas**.
+
+📍 Desde **España** 🇪🇸
+
+✨ Soy una desarrolladora **creativa, resolutiva y autónoma**, a la que le encanta solucionar problemas, aprender nuevas tecnologías y afrontar nuevos retos.
+
+🌱 Siempre estoy buscando mejorar mis habilidades, descubrir nuevas herramientas y escribir código limpio, eficiente y fácil de mantener.
+
+💼 **Abierta a nuevas oportunidades profesionales** donde pueda aportar mis conocimientos, seguir creciendo y participar en proyectos interesantes.
+
+📩 **¿Quieres saber más sobre mí o colaborar en algún proyecto? ¡No dudes en contactar conmigo!** 🤗 </div>
+<h2>Mis proyectos</h2>
+Mira mis proyectos y pregúntame si quieres más información. </a><br><br>
 <div align="center">👇👇👇👇👇👇</div>
 <!--
 **vanemp21/vanemp21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
